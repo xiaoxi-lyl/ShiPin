@@ -1,0 +1,367 @@
+1.1 Linux简介与发展历程:https://edu.tipdm.org/hls/1296/playlist/feed9660d0be11ea86fd00163e08b66a.m3u8
+1.2 Linux常见版本:https://edu.tipdm.org/hls/1297/playlist/0e3f2eb2d0bf11eab1b100163e08b66a.m3u8
+2.1 Linux文件系统树:https://edu.tipdm.org/hls/1298/playlist/203943e6d0bf11ea8ffc00163e08b66a.m3u8
+2.2 创建与删除目录或文件:https://edu.tipdm.org/hls/1299/playlist/2f9b202ad0bf11ea97b200163e08b66a.m3u8
+2.3 查看文件内容:https://edu.tipdm.org/hls/1300/playlist/3ef03e34d0bf11ea8c8100163e08b66a.m3u8
+2.4 创建硬链接和符号链接:https://edu.tipdm.org/hls/1301/playlist/4e2c9d7ad0bf11eaa74300163e08b66a.m3u8
+2.5 帮助命令:https://edu.tipdm.org/hls/1302/playlist/5deb3028d0bf11eab40700163e08b66a.m3u8
+2.6 重定向相关命令:https://edu.tipdm.org/hls/1303/playlist/70eea3bcd0bf11ea9bc200163e08b66a.m3u8
+2.7 用户及用户组:https://edu.tipdm.org/hls/1304/playlist/801c5f5ad0bf11ea91d500163e08b66a.m3u8
+2.8 权限相关命令:https://edu.tipdm.org/hls/1305/playlist/8f31ff90d0bf11ea8e5c00163e08b66a.m3u8
+2.9 用户、用户组及权限实践操作:https://edu.tipdm.org/hls/1333/playlist/9fd09352d0bf11ea8df800163e08b66a.m3u8
+2.10 进程:https://edu.tipdm.org/hls/1343/playlist/af0f7180d0bf11eabb4c00163e08b66a.m3u8
+3.1 模式介绍与常见快捷命令:https://edu.tipdm.org/hls/1351/playlist/c20098bed0bf11ea843d00163e08b66a.m3u8
+3.2.1 一般模式快捷键:https://edu.tipdm.org/hls/1355/playlist/d11e4364d0bf11ea93fd00163e08b66a.m3u8
+3.2.2 编辑模式与指令模式快捷键:https://edu.tipdm.org/hls/1368/playlist/e140d6e4d0bf11ea978900163e08b66a.m3u8
+4.1 Linux Shell编程介绍:https://edu.tipdm.org/hls/1390/playlist/f07fdcd6d0bf11eabe5100163e08b66a.m3u8
+4.2 变量和字符串:https://edu.tipdm.org/hls/1397/playlist/ffe65b8cd0bf11ea8d7100163e08b66a.m3u8
+4.3 数组与参数传递:https://edu.tipdm.org/hls/1407/playlist/13ddcf26d0c011eaa64f00163e08b66a.m3u8
+4.4.1 算术运算符:https://edu.tipdm.org/hls/1414/playlist/2328995cd0c011ea8d9b00163e08b66a.m3u8
+4.4.2 比较型运算符:https://edu.tipdm.org/hls/1419/playlist/32669004d0c011eab5cb00163e08b66a.m3u8
+4.4.3 运算符实践操作:https://edu.tipdm.org/hls/1426/playlist/41bc9fd0d0c011eab03d00163e08b66a.m3u8
+4.5 for循环:https://edu.tipdm.org/hls/1430/playlist/510042e4d0c011eaa36d00163e08b66a.m3u8
+1.1数据库概述:https://edu.tipdm.org/hls/1317/playlist/73a2201ad0c011eab14500163e08b66a.m3u8
+2.1MySQL安装及配置:https://edu.tipdm.org/hls/1318/playlist/82e7f2ded0c011eaab2600163e08b66a.m3u8
+2.2可视化工具使用:https://edu.tipdm.org/hls/1321/playlist/921e4352d0c011eaa7a400163e08b66a.m3u8
+3.1MySQL入门使用:https://edu.tipdm.org/hls/1322/playlist/a18010bed0c011eaaab300163e08b66a.m3u8
+4.1数据结构与数据类型:https://edu.tipdm.org/hls/1323/playlist/b106c0fad0c011eaa9f700163e08b66a.m3u8
+5.1MySQL语法操作:https://edu.tipdm.org/hls/1325/playlist/c4077a96d0c011ea825e00163e08b66a.m3u8
+5.2主键与外键:https://edu.tipdm.org/hls/1326/playlist/d3603e06d0c011eaabf500163e08b66a.m3u8
+6.1MySQL常用运算符:https://edu.tipdm.org/hls/1329/playlist/e2b2b9b0d0c011eaab9800163e08b66a.m3u8
+6.2MySQL数据更新操作:https://edu.tipdm.org/hls/1330/playlist/f1ccad02d0c011eab04600163e08b66a.m3u8
+6.3MySQL数据查询操作:https://edu.tipdm.org/hls/1331/playlist/00fdbbd6d0c111ea969f00163e08b66a.m3u8
+7.1联表查询:https://edu.tipdm.org/hls/1334/playlist/139436b2d0c111ea8d5e00163e08b66a.m3u8
+7.2子查询:https://edu.tipdm.org/hls/1337/playlist/2312ec82d0c111ea9a6500163e08b66a.m3u8
+7.3复制表:https://edu.tipdm.org/hls/1339/playlist/3299f70ed0c111eabced00163e08b66a.m3u8
+1.1Java简介:https://edu.tipdm.org/hls/1306/playlist/5110fc64d0c111eaa36000163e08b66a.m3u8
+1.2Java安装配置:https://edu.tipdm.org/hls/1307/playlist/644542aed0c111ea894400163e08b66a.m3u8
+1.3Java基础语法:https://edu.tipdm.org/hls/1308/playlist/738a3558d0c111eab59800163e08b66a.m3u8
+1.4.1Java基本数据类型&引用数据类型:https://edu.tipdm.org/hls/1309/playlist/833c60cad0c111eab2ef00163e08b66a.m3u8
+1.4.2Java变量:https://edu.tipdm.org/hls/1310/playlist/9282f56cd0c111eabff100163e08b66a.m3u8
+1.5Java String类:https://edu.tipdm.org/hls/1311/playlist/a1c7262ed0c111ea8ede00163e08b66a.m3u8
+1.6.1Java运算符-赋值运算符&算术运算符:https://edu.tipdm.org/hls/1312/playlist/b4cfbb8cd0c111ea810b00163e08b66a.m3u8
+1.6.2Java运算符-关系、逻辑、其他运算符:https://edu.tipdm.org/hls/1313/playlist/c435f924d0c111eabdd500163e08b66a.m3u8
+1.7循环、条件、循环中断:https://edu.tipdm.org/hls/1314/playlist/d362c01cd0c111ea94f900163e08b66a.m3u8
+1.8Java数组:https://edu.tipdm.org/hls/1315/playlist/e294f816d0c111ea968400163e08b66a.m3u8
+1.9Java函数:https://edu.tipdm.org/hls/1316/playlist/f1c8ffeed0c111ea897d00163e08b66a.m3u8
+1.10.1Java集合简介:https://edu.tipdm.org/hls/1319/playlist/0624ac22d0c211eab50000163e08b66a.m3u8
+1.10.2Java集合之List:https://edu.tipdm.org/hls/1320/playlist/154b46c0d0c211eab72500163e08b66a.m3u8
+1.10.3Java集合之Set:https://edu.tipdm.org/hls/1327/playlist/249bd61cd0c211eabaa700163e08b66a.m3u8
+1.10.4Java集合之Map:https://edu.tipdm.org/hls/1332/playlist/33f5fb60d0c211ea888300163e08b66a.m3u8
+1.11Java泛型:https://edu.tipdm.org/hls/1336/playlist/432e3d0ed0c211ea87e000163e08b66a.m3u8
+2.1Java类、对象:https://edu.tipdm.org/hls/1338/playlist/547169bad0c211eaa22400163e08b66a.m3u8
+2.2.1Java类封装:https://edu.tipdm.org/hls/1340/playlist/63f6044ad0c211ea887900163e08b66a.m3u8
+2.2.2Java构造函数:https://edu.tipdm.org/hls/1342/playlist/739a64aed0c211ea869500163e08b66a.m3u8
+2.2.3Java类继承:https://edu.tipdm.org/hls/1344/playlist/82e94e84d0c211ea86f600163e08b66a.m3u8
+2.2.4Java类多态:https://edu.tipdm.org/hls/1346/playlist/93464e94d0c211eaaa6100163e08b66a.m3u8
+2.3.1Java抽象类:https://edu.tipdm.org/hls/1348/playlist/a6a924e8d0c211eaac2700163e08b66a.m3u8
+2.3.2Java接口:https://edu.tipdm.org/hls/1349/playlist/b5d8e502d0c211eaa60b00163e08b66a.m3u8
+3.1Java多线程:https://edu.tipdm.org/hls/1350/playlist/c5d76bf4d0c211ea9c2e00163e08b66a.m3u8
+3.2Java包、异常:https://edu.tipdm.org/hls/1352/playlist/d525e2c0d0c211eaaeb600163e08b66a.m3u8
+1.1 认识大数据:https://edu.tipdm.org/hls/20243/playlist/0e88f854d0c311ea904200163e08b66a.m3u8
+1.2 Hadoop简介和发展历程:https://edu.tipdm.org/hls/20250/playlist/1dd8fae8d0c311ea9ebd00163e08b66a.m3u8
+1.3 Hadoop特性与生态环境:https://edu.tipdm.org/hls/20252/playlist/2d815922d0c311eaa8f800163e08b66a.m3u8
+2.1 安装虚拟机:https://edu.tipdm.org/hls/19775/playlist/3c9a191cd0c311eaa19400163e08b66a.m3u8
+2.2 配置固定IP:https://edu.tipdm.org/hls/19776/playlist/4ecee068d0c311ea856800163e08b66a.m3u8
+2.3 克隆虚拟机并修改配置:https://edu.tipdm.org/hls/19777/playlist/5e0492c6d0c311eab05c00163e08b66a.m3u8
+2.4 配置ssh无密码登录:https://edu.tipdm.org/hls/19778/playlist/6d34ca04d0c311ea97c300163e08b66a.m3u8
+2.5 配置时间同步服务:https://edu.tipdm.org/hls/19779/playlist/7d28bc2cd0c311eaaa5400163e08b66a.m3u8
+2.6 安装Java:https://edu.tipdm.org/hls/19780/playlist/8c6f7130d0c311eaa80700163e08b66a.m3u8
+2.7 Hadoop集群架构:https://edu.tipdm.org/hls/19781/playlist/9dbbea90d0c311eaa5ac00163e08b66a.m3u8
+2.8 Hadoop集群安装与配置:https://edu.tipdm.org/hls/19768/playlist/ad3cf5d6d0c311eaa0c000163e08b66a.m3u8
+2.9 Hadoop集群启动与监控界面介绍:https://edu.tipdm.org/hls/19782/playlist/bc68d782d0c311ea850600163e08b66a.m3u8
+3.1 HDFS简介及架构:https://edu.tipdm.org/hls/20254/playlist/cb6b0034d0c311ea96b200163e08b66a.m3u8
+3.2 HDFS数据读写流程:https://edu.tipdm.org/hls/20256/playlist/dbe8f466d0c311eabd3600163e08b66a.m3u8
+3.3 HDFS管理命令:https://edu.tipdm.org/hls/19785/playlist/efde31c0d0c311ea9a1000163e08b66a.m3u8
+3.4 HDFS目录基本操作:https://edu.tipdm.org/hls/19786/playlist/ff8e2a3ad0c311ea8f6e00163e08b66a.m3u8
+3.5 HDFS文件基本操作:https://edu.tipdm.org/hls/19787/playlist/0f2455d2d0c411eaa2c800163e08b66a.m3u8
+4.1 MapReduce思想与设计构思:https://edu.tipdm.org/hls/20257/playlist/1ed0a27ed0c411eab6d100163e08b66a.m3u8
+4.2 MapReduce框架结构:https://edu.tipdm.org/hls/20258/playlist/307496cad0c411eaadca00163e08b66a.m3u8
+5.1 MapReduce单词计数原理:https://edu.tipdm.org/hls/19790/playlist/4342ccb8d0c411eabcb200163e08b66a.m3u8
+5.2 MapReduce单词计数源码分析:https://edu.tipdm.org/hls/19843/playlist/52f67c2cd0c411eaaad400163e08b66a.m3u8
+5.3 搭建MapReduce开发环境:https://edu.tipdm.org/hls/19874/playlist/629da7fed0c411eaa80200163e08b66a.m3u8
+5.4 MapReduce单词计数编程实现:https://edu.tipdm.org/hls/19805/playlist/725c85fcd0c411ea8c9d00163e08b66a.m3u8
+5.5 MapReduce实现XX与YY连接:https://edu.tipdm.org/hls/19944/playlist/821ba2a2d0c411eab38800163e08b66a.m3u8
+5.6 MapReduce实现单词统计次数排序:https://edu.tipdm.org/hls/19936/playlist/9184441ad0c411ea818f00163e08b66a.m3u8
+6.1 列表目录或文件:https://edu.tipdm.org/hls/19795/playlist/a6590984d0c411eabdb700163e08b66a.m3u8
+6.2 创建目录:https://edu.tipdm.org/hls/19806/playlist/b5fac7a6d0c411eabdb900163e08b66a.m3u8
+6.3 上传本地文件到HDFS:https://edu.tipdm.org/hls/19815/playlist/c663e3fcd0c411eab1fe00163e08b66a.m3u8
+6.4 下载HDFS文件到本地文件系统:https://edu.tipdm.org/hls/19830/playlist/d67e18e8d0c411ea8d8800163e08b66a.m3u8
+6.5 删除文件或目录:https://edu.tipdm.org/hls/20360/playlist/e6a76724d0c411ea998700163e08b66a.m3u8
+6.6 读取文件内容:https://edu.tipdm.org/hls/19847/playlist/faf1f53cd0c411ea89cf00163e08b66a.m3u8
+6.7 写数据到文件:https://edu.tipdm.org/hls/19942/playlist/0accc126d0c511eaba6800163e08b66a.m3u8
+6.8 HDFS JAVA API实践任务:https://edu.tipdm.org/hls/20000/playlist/1a186356d0c511eab54900163e08b66a.m3u8
+7.1 分区器简介:https://edu.tipdm.org/hls/19872/playlist/2932c750d0c511eaa47500163e08b66a.m3u8
+7.2 定义Partition实现用户统计结果按月存储:https://edu.tipdm.org/hls/20015/playlist/384f9682d0c511eaa7bb00163e08b66a.m3u8
+7.3 键值对类型简介:https://edu.tipdm.org/hls/19976/playlist/4bebf3acd0c511eab49200163e08b66a.m3u8
+7.4 自定义键类型:https://edu.tipdm.org/hls/19907/playlist/5c07881ed0c511eabf1900163e08b66a.m3u8
+7.5 Combiner简介及应用:https://edu.tipdm.org/hls/19997/playlist/6b2bd322d0c511ea8dad00163e08b66a.m3u8
+7.6 输入输出格式简介及应用:https://edu.tipdm.org/hls/19998/playlist/7a787e98d0c511ea88c700163e08b66a.m3u8
+7.7 Configuration实现参数传递:https://edu.tipdm.org/hls/19937/playlist/89d14f64d0c511ea8d3900163e08b66a.m3u8
+7.8 Configuration设置集群连接参数:https://edu.tipdm.org/hls/19941/playlist/9ccf58fed0c511ea83f200163e08b66a.m3u8
+7.9 ToolRunner辅助类:https://edu.tipdm.org/hls/19946/playlist/abdd2a42d0c511eaa0c800163e08b66a.m3u8
+8.1 MapReduce实现KNN的思路分析:https://edu.tipdm.org/hls/19948/playlist/bc7aae74d0c511ea92bd00163e08b66a.m3u8
+8.2 Hadoop实现鸢尾花分类:https://edu.tipdm.org/hls/19912/playlist/cb6b16c6d0c511ea813200163e08b66a.m3u8
+
+1.Hive简介:https://edu.tipdm.org/hls/20259/playlist/fdbd7d60d0cc11ea8cb300163e08b66a.m3u8
+2.1 Hadoop集群介绍与MySQL安装:https://edu.tipdm.org/hls/19978/playlist/0681ea44d0cd11eab9ad00163e08b66a.m3u8
+2.2 Hive安装配置:https://edu.tipdm.org/hls/19979/playlist/0fd67f42d0cd11eabe7b00163e08b66a.m3u8
+2.3 Hive单词计数:https://edu.tipdm.org/hls/20131/playlist/1be0202cd0cd11ea973600163e08b66a.m3u8
+3.1 任务讲解与数据库定义:https://edu.tipdm.org/hls/19855/playlist/254b96c8d0cd11ea9dea00163e08b66a.m3u8
+3.2 创建内表:https://edu.tipdm.org/hls/19873/playlist/2df07744d0cd11eabec300163e08b66a.m3u8
+3.3 创建外表:https://edu.tipdm.org/hls/19983/playlist/371ea408d0cd11ea95dd00163e08b66a.m3u8
+3.4 创建泰坦尼克乘客信息表:https://edu.tipdm.org/hls/19986/playlist/3ff2f606d0cd11eaa47100163e08b66a.m3u8
+3.5 创建静态分区表:https://edu.tipdm.org/hls/19991/playlist/4c887e40d0cd11ea9efb00163e08b66a.m3u8
+3.6 创建动态分区表:https://edu.tipdm.org/hls/19995/playlist/554f3974d0cd11ea8d7a00163e08b66a.m3u8
+3.7 创建带数据的表和桶表:https://edu.tipdm.org/hls/19996/playlist/5e0fbb42d0cd11eaa33700163e08b66a.m3u8
+3.8 从文件系统导入数据到Hive:https://edu.tipdm.org/hls/19999/playlist/66bce774d0cd11eab94e00163e08b66a.m3u8
+3.9 从其他表查询数据导入Hive:https://edu.tipdm.org/hls/20002/playlist/6f9acbc2d0cd11ea9d7000163e08b66a.m3u8
+3.10 导出表数据到文件系统:https://edu.tipdm.org/hls/20003/playlist/78ab2a18d0cd11eab0ae00163e08b66a.m3u8
+3.11 创建职工信息表:https://edu.tipdm.org/hls/20004/playlist/865b35aed0cd11eab5c400163e08b66a.m3u8
+3.12 select查询入门:https://edu.tipdm.org/hls/20161/playlist/8ee8562ad0cd11ea9ad700163e08b66a.m3u8
+3.13 泰坦尼克号人员分布统计:https://edu.tipdm.org/hls/20008/playlist/97d22f72d0cd11ea8ecf00163e08b66a.m3u8
+3.14 select连接查询和子查询:https://edu.tipdm.org/hls/20012/playlist/a0886eecd0cd11ea91ab00163e08b66a.m3u8
+3.15 分析影响生存率关系:https://edu.tipdm.org/hls/20018/playlist/a98514c8d0cd11ea83e500163e08b66a.m3u8
+3.16 Hive语句执行顺序:https://edu.tipdm.org/hls/20019/playlist/b5a4efd0d0cd11eaaf7500163e08b66a.m3u8
+4.1 配置Hive的Java开发环境:https://edu.tipdm.org/hls/19980/playlist/bec195f0d0cd11ea815a00163e08b66a.m3u8
+4.2 创建订单表和物品类别表:https://edu.tipdm.org/hls/19982/playlist/c8aa3ab8d0cd11eaa68b00163e08b66a.m3u8
+4.3 统计顾客数和商品销量:https://edu.tipdm.org/hls/20132/playlist/d18c8046d0cd11ea891300163e08b66a.m3u8
+4.4 统计各类型商品购买情况:https://edu.tipdm.org/hls/19985/playlist/da7adcacd0cd11eab40500163e08b66a.m3u8
+4.5 统计销量排名前20的商品:https://edu.tipdm.org/hls/19987/playlist/e6bd4054d0cd11eaabbb00163e08b66a.m3u8
+4.6 统计各类型商品排名前10的热销商品:https://edu.tipdm.org/hls/19988/playlist/ef3a731ed0cd11eaaf1300163e08b66a.m3u8
+4.7 保存客户订单数据到HDFS:https://edu.tipdm.org/hls/19990/playlist/f7b2b128d0cd11eaa24e00163e08b66a.m3u8
+5.1 自定义函数简介:https://edu.tipdm.org/hls/19992/playlist/005c3d94d0ce11ea916b00163e08b66a.m3u8
+5.2 自定义UDF:https://edu.tipdm.org/hls/19993/playlist/09323522d0ce11ea9a1500163e08b66a.m3u8
+5.3 自定义UDAF:https://edu.tipdm.org/hls/19994/playlist/15ddc4b2d0ce11ea96d300163e08b66a.m3u8
+5.4 自定义UDTF:https://edu.tipdm.org/hls/20001/playlist/1ea094d0d0ce11eab0a200163e08b66a.m3u8
+6.1 视图:https://edu.tipdm.org/hls/20005/playlist/27ec179ed0ce11ea919300163e08b66a.m3u8
+6.2 索引:https://edu.tipdm.org/hls/20010/playlist/31039320d0ce11ea828a00163e08b66a.m3u8
+6.3 存储格式:https://edu.tipdm.org/hls/20011/playlist/399cc65ad0ce11ea953600163e08b66a.m3u8
+7.1 创建航空客户信息表:https://edu.tipdm.org/hls/20013/playlist/46f61108d0ce11ea86fa00163e08b66a.m3u8
+7.2 航空客户数据清洗:https://edu.tipdm.org/hls/20014/playlist/4f7c3dfcd0ce11ea9c4600163e08b66a.m3u8
+7.3 特征数据处理:https://edu.tipdm.org/hls/20017/playlist/58bd2be2d0ce11ea965d00163e08b66a.m3u8
+1.1 认识HBase:https://edu.tipdm.org/hls/20359/playlist/69f3c42ad0ce11ea8db700163e08b66a.m3u8
+1.2 HBase适用场景:https://edu.tipdm.org/hls/20361/playlist/72e82828d0ce11ea8dfa00163e08b66a.m3u8
+2.1 HBase集群拓扑简介:https://edu.tipdm.org/hls/20178/playlist/8041c358d0ce11ea842600163e08b66a.m3u8
+2.2 Zookeeper集群安装配置:https://edu.tipdm.org/hls/20180/playlist/892c4286d0ce11ea9ed300163e08b66a.m3u8
+2.3 HBase安装配置:https://edu.tipdm.org/hls/20182/playlist/922a5440d0ce11ea9e8400163e08b66a.m3u8
+2.4 HBase监控界面讲解:https://edu.tipdm.org/hls/20184/playlist/9abc2f02d0ce11ea804900163e08b66a.m3u8
+3.1 HBase数据模型:https://edu.tipdm.org/hls/20364/playlist/a376245ed0ce11eab7de00163e08b66a.m3u8
+3.2 HBase架构:https://edu.tipdm.org/hls/20366/playlist/af9f5638d0ce11ea828c00163e08b66a.m3u8
+3.3 HBase读写流程:https://edu.tipdm.org/hls/21146/playlist/b868b1ecd0ce11eaa05e00163e08b66a.m3u8
+4.1 命名空间操作:https://edu.tipdm.org/hls/20185/playlist/c1dfab22d0ce11eaba0b00163e08b66a.m3u8
+4.2 创建表:https://edu.tipdm.org/hls/20188/playlist/ca73d876d0ce11eaab9d00163e08b66a.m3u8
+4.3 修改和删除表:https://edu.tipdm.org/hls/20190/playlist/d32a53fad0ce11ea840a00163e08b66a.m3u8
+4.4 插入数据到表中:https://edu.tipdm.org/hls/21144/playlist/df4ff1d0d0ce11ea965500163e08b66a.m3u8
+4.5 查看表数据:https://edu.tipdm.org/hls/20195/playlist/e8471f5cd0ce11eab63700163e08b66a.m3u8
+4.6 删除表数据:https://edu.tipdm.org/hls/20199/playlist/f0f15622d0ce11ea9a5500163e08b66a.m3u8
+5.1 HBase表设计:https://edu.tipdm.org/hls/20201/playlist/fa2ee614d0ce11ea988600163e08b66a.m3u8
+6.1 搭建HBase开发环境:https://edu.tipdm.org/hls/20318/playlist/031527a2d0cf11ea8e3800163e08b66a.m3u8
+6.2 建立与HBase数据库连接实例:https://edu.tipdm.org/hls/20203/playlist/0becf01cd0cf11ea9a6300163e08b66a.m3u8
+6.3 创建或删除表应用实例:https://edu.tipdm.org/hls/20205/playlist/19aa8372d0cf11eaa62700163e08b66a.m3u8
+6.4 设置Region分割点应用实例:https://edu.tipdm.org/hls/20207/playlist/22d3091ad0cf11ea8ff900163e08b66a.m3u8
+6.5 修改表结构应用实例:https://edu.tipdm.org/hls/20208/playlist/2b9b472ed0cf11eabc4a00163e08b66a.m3u8
+6.6 写入数据应用实例:https://edu.tipdm.org/hls/20209/playlist/346a557ad0cf11ea861d00163e08b66a.m3u8
+6.7 查看一行数据应用实例:https://edu.tipdm.org/hls/20211/playlist/3d331840d0cf11ea8db200163e08b66a.m3u8
+6.8 扫描表数据应用实例:https://edu.tipdm.org/hls/20214/playlist/49966eb6d0cf11eaa56b00163e08b66a.m3u8
+6.9 删除数据应用实例:https://edu.tipdm.org/hls/20215/playlist/5266a3dad0cf11ea876b00163e08b66a.m3u8
+6.10 创建职工信息表emp:https://edu.tipdm.org/hls/20217/playlist/5b3f478cd0cf11ea959400163e08b66a.m3u8
+6.11 写入数据到职工信息表:https://edu.tipdm.org/hls/20292/playlist/64414caed0cf11eab82900163e08b66a.m3u8
+6.12 查找指定范围职工信息:https://edu.tipdm.org/hls/20219/playlist/6cf1dd14d0cf11eab01700163e08b66a.m3u8
+7.1 HBase与MapReduce交互简介:https://edu.tipdm.org/hls/20225/playlist/968788aed0cf11eaa98d00163e08b66a.m3u8
+7.2 导入单词文本到HBase表:https://edu.tipdm.org/hls/20294/playlist/9f174446d0cf11eaaeef00163e08b66a.m3u8
+7.3 统计HBase表中文本的单词计数:https://edu.tipdm.org/hls/20295/playlist/a807d3a4d0cf11eab71e00163e08b66a.m3u8
+7.4 冠字号存储系统背景分析:https://edu.tipdm.org/hls/20228/playlist/b08160a4d0cf11ea9c4400163e08b66a.m3u8
+7.5 冠字号存储系统表设计和创建:https://edu.tipdm.org/hls/20230/playlist/bb8bc462d0cf11eaa0d800163e08b66a.m3u8
+7.6 冠字号存储系统用户数据存储:https://edu.tipdm.org/hls/20296/playlist/c42940c2d0cf11eaaa2d00163e08b66a.m3u8
+7.7 冠字号存储系统钞票数据存储-参数设置与读取:https://edu.tipdm.org/hls/20307/playlist/cd0425aed0cf11eabf2500163e08b66a.m3u8
+7.8 冠字号存储系统钞票数据存储-map方法处理:https://edu.tipdm.org/hls/20236/playlist/d5d9a492d0cf11eaacf600163e08b66a.m3u8
+7.9 冠字号存储系统钞票流通记录查询:https://edu.tipdm.org/hls/20238/playlist/dee05d6ad0cf11ea975200163e08b66a.m3u8
+1.1 Scala简介:https://edu.tipdm.org/hls/22072/playlist/f34f4464d0cf11ea923d00163e08b66a.m3u8
+2.1 Scala线上环境介绍:https://edu.tipdm.org/hls/20174/playlist/fe05510ad0cf11eaaacc00163e08b66a.m3u8
+2.2 在Windows上搭建Scala:https://edu.tipdm.org/hls/20177/playlist/06e06684d0d011eab7d900163e08b66a.m3u8
+2.3 在Linux上搭建Scala:https://edu.tipdm.org/hls/20179/playlist/0fc36328d0d011ea8c2d00163e08b66a.m3u8
+2.4 Scala插件安装:https://edu.tipdm.org/hls/20181/playlist/1c3aa3f0d0d011ea809000163e08b66a.m3u8
+2.5 创建第一个Scala工程:https://edu.tipdm.org/hls/20183/playlist/25594950d0d011ea90b400163e08b66a.m3u8
+3.1 Scala类型、变量、运算符:https://edu.tipdm.org/hls/20186/playlist/2decaa12d0d011ea9f5800163e08b66a.m3u8
+3.2 数组:https://edu.tipdm.org/hls/20191/playlist/380580d2d0d011eab6bf00163e08b66a.m3u8
+3.3 if条件判断:https://edu.tipdm.org/hls/20193/playlist/40c2aa1ad0d011ea9e5f00163e08b66a.m3u8
+3.4 循环语句:https://edu.tipdm.org/hls/20196/playlist/4ce51a62d0d011ea8d1a00163e08b66a.m3u8
+3.5 实现冒泡排序法:https://edu.tipdm.org/hls/20198/playlist/55b18612d0d011ea8fd400163e08b66a.m3u8
+3.6 列表List:https://edu.tipdm.org/hls/20200/playlist/5e8ea21ad0d011eab3c300163e08b66a.m3u8
+3.7 列表ListBuffer:https://edu.tipdm.org/hls/20202/playlist/6789f838d0d011eab35300163e08b66a.m3u8
+3.8 集合Set:https://edu.tipdm.org/hls/20204/playlist/723197f0d0d011eab4af00163e08b66a.m3u8
+3.9 计算最大公约数和最小公倍数:https://edu.tipdm.org/hls/20206/playlist/7b9ecd44d0d011ea86ec00163e08b66a.m3u8
+3.10 映射Map:https://edu.tipdm.org/hls/20210/playlist/893255d4d0d011ea93e300163e08b66a.m3u8
+3.11 元组Tuple:https://edu.tipdm.org/hls/20213/playlist/91edf9e4d0d011ea8c3600163e08b66a.m3u8
+4.1 函数定义:https://edu.tipdm.org/hls/20216/playlist/9e298a2ad0d011ea97b600163e08b66a.m3u8
+4.2 匿名函数:https://edu.tipdm.org/hls/20218/playlist/a70f5a70d0d011eab76100163e08b66a.m3u8
+4.3 高阶函数:https://edu.tipdm.org/hls/20222/playlist/afd44116d0d011eaa69800163e08b66a.m3u8
+4.4 集合中的高阶函数:https://edu.tipdm.org/hls/20224/playlist/bd5bdea2d0d011ea8c4700163e08b66a.m3u8
+4.5 递归与尾递归:https://edu.tipdm.org/hls/20197/playlist/c674e0bad0d011ea839400163e08b66a.m3u8
+5.1 面向对象编程简介:https://edu.tipdm.org/hls/20227/playlist/cf454ca2d0d011eaa7bb00163e08b66a.m3u8
+5.2 类的定义:https://edu.tipdm.org/hls/20229/playlist/d7eb383ad0d011eabd8300163e08b66a.m3u8
+5.3 定义类实现有理数的运算:https://edu.tipdm.org/hls/20232/playlist/e18eeeb8d0d011eaab7100163e08b66a.m3u8
+5.4 单例对象:https://edu.tipdm.org/hls/20237/playlist/f1b3c67ed0d011ea808b00163e08b66a.m3u8
+5.5 样例类和模式匹配:https://edu.tipdm.org/hls/20239/playlist/fa8aa344d0d011eaaf2300163e08b66a.m3u8
+6.1 文件读写:https://edu.tipdm.org/hls/20241/playlist/03685b96d0d111eab17500163e08b66a.m3u8
+6.2 手机号码段查询:https://edu.tipdm.org/hls/20242/playlist/0d2e987ad0d111ea860800163e08b66a.m3u8
+1.1 Spark介绍:https://edu.tipdm.org/hls/21063/playlist/21ccf29ad0d111eabfe300163e08b66a.m3u8
+2.1 Spark集群拓扑:https://edu.tipdm.org/hls/20362/playlist/2afa5042d0d111eaa40800163e08b66a.m3u8
+2.2 Spark安装配置:https://edu.tipdm.org/hls/20363/playlist/3422f6ecd0d111ea98d800163e08b66a.m3u8
+2.3 运行第一个Spark程序:https://edu.tipdm.org/hls/20365/playlist/3cccf02cd0d111eabdf000163e08b66a.m3u8
+3.1 Spark架构:https://edu.tipdm.org/hls/20593/playlist/45c1621cd0d111ea98ec00163e08b66a.m3u8
+3.2 Spark RDD:https://edu.tipdm.org/hls/21217/playlist/51ee6d00d0d111ea977a00163e08b66a.m3u8
+4.1 启动Spark Shell:https://edu.tipdm.org/hls/20368/playlist/5ad6eceed0d111eaa9e400163e08b66a.m3u8
+4.2 创建RDD:https://edu.tipdm.org/hls/20369/playlist/639474dcd0d111eaaddb00163e08b66a.m3u8
+4.3 读取学生成绩创建RDD:https://edu.tipdm.org/hls/20371/playlist/6c3e64eed0d111eab16700163e08b66a.m3u8
+4.4 map与flatMap算子应用:https://edu.tipdm.org/hls/20372/playlist/75089982d0d111ea985400163e08b66a.m3u8
+4.5 sortBy与filter算子应用:https://edu.tipdm.org/hls/20376/playlist/7da7ee9ed0d111eaad4e00163e08b66a.m3u8
+4.6 取出成绩排名前5的学生信息:https://edu.tipdm.org/hls/20377/playlist/8c0b3e82d0d111ea96bc00163e08b66a.m3u8
+4.7 交集与并集计算的算子应用:https://edu.tipdm.org/hls/20378/playlist/94c4d65ad0d111ea91b500163e08b66a.m3u8
+4.8 获取成绩100分的学生信息:https://edu.tipdm.org/hls/20381/playlist/9dd5db7cd0d111ea97c900163e08b66a.m3u8
+4.9 键值对RDD常用算子:https://edu.tipdm.org/hls/20382/playlist/a6bab820d0d111eab92100163e08b66a.m3u8
+4.10 计算学生成绩总分和平均分:https://edu.tipdm.org/hls/20383/playlist/afb788ead0d111ea8b5e00163e08b66a.m3u8
+4.11 存储RDD:https://edu.tipdm.org/hls/20384/playlist/bd56eee6d0d111ea9b0c00163e08b66a.m3u8
+4.12 统计用户停留时间最长的基站:https://edu.tipdm.org/hls/20385/playlist/c633e528d0d111ea82a500163e08b66a.m3u8
+5.1 配置Spark开发环境:https://edu.tipdm.org/hls/20386/playlist/cf2c3914d0d111ea812f00163e08b66a.m3u8
+5.2 Spark实现单词计数:https://edu.tipdm.org/hls/20387/playlist/d7e3948ad0d111eabd4400163e08b66a.m3u8
+5.3 使用本地模式运行Spark程序:https://edu.tipdm.org/hls/20389/playlist/e0c3974ed0d111eaa71600163e08b66a.m3u8
+5.4 使用集群模式运行Spark程序:https://edu.tipdm.org/hls/20392/playlist/050b7824d0d211ea9fc000163e08b66a.m3u8
+5.5 设置应用程序使用的集群资源:https://edu.tipdm.org/hls/20393/playlist/0e82077ed0d211ea96c600163e08b66a.m3u8
+6.1 Spark SQL简介和环境配置:https://edu.tipdm.org/hls/20394/playlist/1736c954d0d211eab1ff00163e08b66a.m3u8
+6.2 读取结构化文件创建DataFrame:https://edu.tipdm.org/hls/20396/playlist/225707b8d0d211eab9f900163e08b66a.m3u8
+6.3 读取外部数据库数据创建DataFrame:https://edu.tipdm.org/hls/20401/playlist/2dde83fed0d211ea95d600163e08b66a.m3u8
+6.4 读取RDD创建DataFrame:https://edu.tipdm.org/hls/20402/playlist/36af5e18d0d211ea852500163e08b66a.m3u8
+6.5 读取Hive表数据创建RDD:https://edu.tipdm.org/hls/20404/playlist/4071d5ded0d211ea87f100163e08b66a.m3u8
+6.6 读取学生成绩创建DataFrame:https://edu.tipdm.org/hls/20405/playlist/493b7d28d0d211eaacbf00163e08b66a.m3u8
+6.7 常见DataFrame API应用:https://edu.tipdm.org/hls/20636/playlist/51df5d50d0d211eaa0e900163e08b66a.m3u8
+6.8 通过DataFrame API计算学生总分和平均分:https://edu.tipdm.org/hls/20705/playlist/5e280350d0d211ea852000163e08b66a.m3u8
+6.9 保存DataFrame为结构化文件:https://edu.tipdm.org/hls/20411/playlist/6701de2ed0d211eaac3a00163e08b66a.m3u8
+6.10 保存DataFrame到外部数据库和Hive数据库:https://edu.tipdm.org/hls/20450/playlist/6fa606fed0d211ea985b00163e08b66a.m3u8
+6.11 保存学生成绩分析结果到Hive:https://edu.tipdm.org/hls/20413/playlist/785fc8acd0d211eaa3d100163e08b66a.m3u8
+6.12 创建DataSet:https://edu.tipdm.org/hls/20414/playlist/81c41bc8d0d211ea960100163e08b66a.m3u8
+6.13 通过商品销售数据创建DataSet:https://edu.tipdm.org/hls/20418/playlist/8e4d2ae2d0d211eaa37c00163e08b66a.m3u8
+6.14 统计商品销量:https://edu.tipdm.org/hls/20422/playlist/981dc716d0d211eabce600163e08b66a.m3u8
+7.1 机器学习简介:https://edu.tipdm.org/hls/20596/playlist/a15120b2d0d211ea9cb700163e08b66a.m3u8
+7.2 Spark MLlib简介:https://edu.tipdm.org/hls/20427/playlist/ab2a0518d0d211eab6c200163e08b66a.m3u8
+7.3 处理线性回归模型数据:https://edu.tipdm.org/hls/20430/playlist/b3fcd13ed0d211ea839100163e08b66a.m3u8
+7.4 构建线性回归模型:https://edu.tipdm.org/hls/20438/playlist/c03f1d12d0d211ea88f600163e08b66a.m3u8
+7.5 协同过滤算法简介:https://edu.tipdm.org/hls/20442/playlist/c933ae92d0d211eab95500163e08b66a.m3u8
+7.6 构建ALS算法进行电影推荐:https://edu.tipdm.org/hls/20444/playlist/d1f45298d0d211eaa74800163e08b66a.m3u8
+7.7 在IDEA实现ALS数据处理过程:https://edu.tipdm.org/hls/20656/playlist/da98670ed0d211ea961900163e08b66a.m3u8
+7.8 在IDEA实现ALS模型构建过程:https://edu.tipdm.org/hls/20653/playlist/e4040032d0d211eaa29c00163e08b66a.m3u8
+7.9 在IDEA实现ALS预测与评估过程:https://edu.tipdm.org/hls/20657/playlist/f065e656d0d211ea9bab00163e08b66a.m3u8
+7.10 在IDEA实现ALS模型推荐过程:https://edu.tipdm.org/hls/20659/playlist/f93aac9ed0d211ea858f00163e08b66a.m3u8
+7.11 提交ALS电影推荐模型到集群:https://edu.tipdm.org/hls/20449/playlist/021b4e9ad0d311ea820f00163e08b66a.m3u8
+1.1 Flume简介:https://edu.tipdm.org/hls/23415/playlist/1357b0b8d0d311eaa11b00163e08b66a.m3u8
+2.1 Flume安装配置:https://edu.tipdm.org/hls/21970/playlist/1ca7457ad0d311eaa65400163e08b66a.m3u8
+2.2 第一个Flume采集任务:https://edu.tipdm.org/hls/21971/playlist/2a897f00d0d311ea8d1b00163e08b66a.m3u8
+3.1 Source常见类型与应用:https://edu.tipdm.org/hls/21972/playlist/3447652ad0d311eaa17f00163e08b66a.m3u8
+3.2 Channel常见类型与应用:https://edu.tipdm.org/hls/22017/playlist/3e44169ad0d311ea889a00163e08b66a.m3u8
+3.3 Sink常见类型与应用:https://edu.tipdm.org/hls/21976/playlist/47b9c878d0d311ea898400163e08b66a.m3u8
+3.4 从本地文件采集数据到HDFS:https://edu.tipdm.org/hls/21977/playlist/5113862ad0d311ea8d8800163e08b66a.m3u8
+4.1 时间戳拦截器:https://edu.tipdm.org/hls/21978/playlist/5e39ddaed0d311ea8c9200163e08b66a.m3u8
+4.2 正则过滤拦截器:https://edu.tipdm.org/hls/21979/playlist/67063aa4d0d311ea82f000163e08b66a.m3u8
+4.3 复制选择器:https://edu.tipdm.org/hls/21980/playlist/70145eb4d0d311eab86b00163e08b66a.m3u8
+4.4 Sink处理器:https://edu.tipdm.org/hls/21981/playlist/7a56e158d0d311eaa5bb00163e08b66a.m3u8
+4.5 采集包含字符“男”的数据到hdfs和本地目录:https://edu.tipdm.org/hls/21982/playlist/83a29158d0d311ea9a8200163e08b66a.m3u8
+5.1 采集文件数据到Logger:https://edu.tipdm.org/hls/21984/playlist/904e6076d0d311ea870400163e08b66a.m3u8
+5.2 采集Avro客户端数据到Logger:https://edu.tipdm.org/hls/21985/playlist/997077fcd0d311ea88e500163e08b66a.m3u8
+5.3 采集数据写到另一个Agent:https://edu.tipdm.org/hls/21986/playlist/a28ebd3ad0d311eaaa8400163e08b66a.m3u8
+5.4 多Agent数据采集-任务介绍:https://edu.tipdm.org/hls/21987/playlist/abb026bad0d311ea859300163e08b66a.m3u8
+5.5 多Agent数据采集-实现第一个Agent:https://edu.tipdm.org/hls/21988/playlist/b46ea18cd0d311ea8c4c00163e08b66a.m3u8
+5.6 多Agent数据采集-实现第二个Agent:https://edu.tipdm.org/hls/21989/playlist/c04314a2d0d311eab0fb00163e08b66a.m3u8
+5.7 多Agent数据采集-实现第三个Agent:https://edu.tipdm.org/hls/21990/playlist/c97b27c6d0d311ea80ba00163e08b66a.m3u8
+5.8 多Agent数据采集-启动Agent:https://edu.tipdm.org/hls/21991/playlist/d2735808d0d311ea94b100163e08b66a.m3u8
+5.9 Flume课程总结:https://edu.tipdm.org/hls/21992/playlist/db2f0294d0d311ea8a0400163e08b66a.m3u8
+0.Kafka课程介绍:https://edu.tipdm.org/hls/21843/playlist/ecba71d8d0d311eaae0200163e08b66a.m3u8
+1.Kafka核心概念:https://edu.tipdm.org/hls/21844/playlist/fa061ca2d0d311ea9ac200163e08b66a.m3u8
+2.Kafka安装配置JDK&Zookeeper:https://edu.tipdm.org/hls/21851/playlist/02c98d6ad0d411ea9f5c00163e08b66a.m3u8
+3.Kafka单代理及常用操作:https://edu.tipdm.org/hls/21856/playlist/0c7719d6d0d411eab64600163e08b66a.m3u8
+4.1Kafka多代理配置:https://edu.tipdm.org/hls/21870/playlist/179a7b1ed0d411ea9cb500163e08b66a.m3u8
+4.2Kafka代理常用操作:https://edu.tipdm.org/hls/21871/playlist/219e6e22d0d411eaaf4800163e08b66a.m3u8
+5.1Kafka Producer API 介绍:https://edu.tipdm.org/hls/21873/playlist/2f24500cd0d411ea909d00163e08b66a.m3u8
+5.2Kafka 开发环境配置:https://edu.tipdm.org/hls/21874/playlist/381396a0d0d411ea90c700163e08b66a.m3u8
+5.3Kafka Producer实战:https://edu.tipdm.org/hls/21875/playlist/412eefd2d0d411eabb4800163e08b66a.m3u8
+6.1Kafka Consumer API介绍:https://edu.tipdm.org/hls/21876/playlist/4a3ead9cd0d411eabade00163e08b66a.m3u8
+6.2Kafka Consumer 实战:https://edu.tipdm.org/hls/21877/playlist/53719eced0d411ea92fa00163e08b66a.m3u8
+6.3Kafka Producer & Consumer整合实战:https://edu.tipdm.org/hls/21879/playlist/7aa588d4d0d411eaa9b500163e08b66a.m3u8
+7.1Hadoop& Spark环境说明:https://edu.tipdm.org/hls/21920/playlist/83afcbced0d411eaa97d00163e08b66a.m3u8
+7.2Hadoop & Spark 环境介绍及简单操作:https://edu.tipdm.org/hls/21921/playlist/8cb63ca8d0d411eab57e00163e08b66a.m3u8
+7.3Kafka整合Spark整体流程:https://edu.tipdm.org/hls/21922/playlist/959dcde0d0d411ea9ca600163e08b66a.m3u8
+7.4Kafka整合Spark环境配置:https://edu.tipdm.org/hls/21923/playlist/a0e482e8d0d411ea88a200163e08b66a.m3u8
+8.1Kafka 整合Spark相关API及基本代码:https://edu.tipdm.org/hls/21925/playlist/aa7a1214d0d411ea9a5900163e08b66a.m3u8
+8.2Kafka整合Spark Console输出:https://edu.tipdm.org/hls/21927/playlist/b34c16b2d0d411ea899b00163e08b66a.m3u8
+8.3Kafka整合Spark Console输出二:https://edu.tipdm.org/hls/21931/playlist/bbe5c872d0d411ea906300163e08b66a.m3u8
+8.4Kafka整合Spark HDFS输出:https://edu.tipdm.org/hls/21932/playlist/c482acc0d0d411ea83fb00163e08b66a.m3u8
+
+
+0.课程介绍:https://edu.tipdm.org/hls/21247/playlist/db043176d0d411eab42d00163e08b66a.m3u8
+1.1Flink介绍:https://edu.tipdm.org/hls/21248/playlist/e511db50d0d411ea826900163e08b66a.m3u8
+1.2Flink基本概念:https://edu.tipdm.org/hls/21250/playlist/edef3ec0d0d411eaa59800163e08b66a.m3u8
+1.3Flink应用场景:https://edu.tipdm.org/hls/21256/playlist/f7133b82d0d411eab71a00163e08b66a.m3u8
+2.1Flink编程数据流模型:https://edu.tipdm.org/hls/21275/playlist/048b6b40d0d511ea891000163e08b66a.m3u8
+2.2Flink核心概念介绍:https://edu.tipdm.org/hls/21257/playlist/0dd1d5ead0d511eab14e00163e08b66a.m3u8
+3.1Flink单节点配置介绍:https://edu.tipdm.org/hls/21276/playlist/18469894d0d511ea94ef00163e08b66a.m3u8
+3.2Flink单节点配置实战:https://edu.tipdm.org/hls/21277/playlist/20f59a12d0d511eaad7e00163e08b66a.m3u8
+3.3Flink多节点配置介绍:https://edu.tipdm.org/hls/21278/playlist/29e2db80d0d511ea83aa00163e08b66a.m3u8
+3.4Flink多节点配置实战:https://edu.tipdm.org/hls/21279/playlist/374692c6d0d511eaa26e00163e08b66a.m3u8
+4.1Flink基础API-Flink编程的基本概念:https://edu.tipdm.org/hls/21280/playlist/402775b8d0d511ea895800163e08b66a.m3u8
+4.2Flink基础API-支持的数据类型:https://edu.tipdm.org/hls/21284/playlist/496a9ef2d0d511eabb9400163e08b66a.m3u8
+4.3DataStream 和DataSet API介绍:https://edu.tipdm.org/hls/21286/playlist/524d5e42d0d511ea9acc00163e08b66a.m3u8
+4.4FlinkTable 和 SQL API:https://edu.tipdm.org/hls/21813/playlist/5c0469e4d0d511ea920300163e08b66a.m3u8
+4.5SQL API 实战:https://edu.tipdm.org/hls/21288/playlist/68757e20d0d511eab4a300163e08b66a.m3u8
+5.1Intellij IDEA 集成配置介绍:https://edu.tipdm.org/hls/21289/playlist/71325e2ad0d511eaa4bc00163e08b66a.m3u8
+5.2Intellij IDEA 环境配置实战:https://edu.tipdm.org/hls/21814/playlist/7b2841b0d0d511ea889800163e08b66a.m3u8
+5.3Flink单词计数详解:https://edu.tipdm.org/hls/21293/playlist/843f81e6d0d511eaabb100163e08b66a.m3u8
+5.4Flink单词计算本地实战:https://edu.tipdm.org/hls/21294/playlist/8d9b9068d0d511eab4e100163e08b66a.m3u8
+5.5Flink集群运行实战:https://edu.tipdm.org/hls/21295/playlist/9fd4121ed0d511eaa21600163e08b66a.m3u8
+5.6Flink Batch API单词计数实战:https://edu.tipdm.org/hls/21296/playlist/a8f8c6f0d0d511eaa3c300163e08b66a.m3u8
+6.1Flink输入输出源详细介绍:https://edu.tipdm.org/hls/21297/playlist/b1ebb4b6d0d511ea93e100163e08b66a.m3u8
+6.2Flink输入输出源实战:https://edu.tipdm.org/hls/21301/playlist/bb0cfbd6d0d511eaae1500163e08b66a.m3u8
+6.3Flink值到值函数介绍及实战:https://edu.tipdm.org/hls/21303/playlist/c53b4f2cd0d511eab38800163e08b66a.m3u8
+6.4Flink键值-键值Operator介绍:https://edu.tipdm.org/hls/21304/playlist/d1bd53d0d0d511eaa2b200163e08b66a.m3u8
+6.5Flink键值-键值实战:https://edu.tipdm.org/hls/21305/playlist/dadc4cfad0d511ea958400163e08b66a.m3u8
+7.1FlinkKafka简单介绍:https://edu.tipdm.org/hls/21306/playlist/e51746cad0d511eaa6a700163e08b66a.m3u8
+7.2Flink和Kafka交互API介绍:https://edu.tipdm.org/hls/21314/playlist/edb17238d0d511ea8c7e00163e08b66a.m3u8
+7.3Flink和Kafka交互实战:https://edu.tipdm.org/hls/21316/playlist/f664f684d0d511eaa4d600163e08b66a.m3u8
+8.1在线欺诈检测整体流程介绍:https://edu.tipdm.org/hls/21321/playlist/0302164cd0d611ea9e9f00163e08b66a.m3u8
+8.2在线欺诈检测实战:https://edu.tipdm.org/hls/21327/playlist/0c0f86fcd0d611ea8f5500163e08b66a.m3u8
+1.1 广电大数据用户画像案例背景:https://edu.tipdm.org/hls/23012/playlist/1d7bd2bad0d611ea85f000163e08b66a.m3u8
+1.2 广电大数据用户画像项目目标:https://edu.tipdm.org/hls/23013/playlist/26a1e30cd0d611eaa43500163e08b66a.m3u8
+1.3 系统架构与项目选型:https://edu.tipdm.org/hls/23014/playlist/3318b886d0d611ea834c00163e08b66a.m3u8
+2.1 数据描述:https://edu.tipdm.org/hls/23015/playlist/3c6a8c52d0d611eaaeb600163e08b66a.m3u8
+2.2 数据存储:https://edu.tipdm.org/hls/23016/playlist/45592b66d0d611ea8c0f00163e08b66a.m3u8
+3.1 数据探索分析:https://edu.tipdm.org/hls/23017/playlist/4e8ef7ecd0d611ea818400163e08b66a.m3u8
+3.2 数据探索分析实战1:https://edu.tipdm.org/hls/23018/playlist/573cd8e6d0d611ea88a600163e08b66a.m3u8
+3.3 数据探索分析实战2:https://edu.tipdm.org/hls/23019/playlist/60e565d4d0d611eab5d200163e08b66a.m3u8
+3.4 数据探索分析实战3:https://edu.tipdm.org/hls/23022/playlist/6ea43952d0d611ea850400163e08b66a.m3u8
+4.1 数据处理规则分析:https://edu.tipdm.org/hls/23025/playlist/7811b05ad0d611eaace800163e08b66a.m3u8
+4.2 数据预处理实战:https://edu.tipdm.org/hls/23028/playlist/81966922d0d611ea8cd200163e08b66a.m3u8
+5.1 用户画像及规则简介:https://edu.tipdm.org/hls/23033/playlist/8b7b4ab6d0d611eabb3a00163e08b66a.m3u8
+5.2 用户画像实战-消费内容计算:https://edu.tipdm.org/hls/23034/playlist/945204e0d0d611ea834300163e08b66a.m3u8
+5.3 用户画像实战-消费水平计算:https://edu.tipdm.org/hls/23040/playlist/a0e119a8d0d611eaa6da00163e08b66a.m3u8
+5.4 用户画像实战-销售品计算:https://edu.tipdm.org/hls/23041/playlist/aa50dce4d0d611ea9ded00163e08b66a.m3u8
+5.5 用户画像实战-宽带产品带宽:https://edu.tipdm.org/hls/23046/playlist/b376aea2d0d611ea951f00163e08b66a.m3u8
+5.6 用户画像实战-用户信息表标签计算:https://edu.tipdm.org/hls/23045/playlist/bc321914d0d611ea848100163e08b66a.m3u8
+5.7 用户画像实战-地区偏好和语言偏好:https://edu.tipdm.org/hls/23047/playlist/c4ecd3a0d0d611ea86fc00163e08b66a.m3u8
+6.1 SVM模型简介:https://edu.tipdm.org/hls/23048/playlist/ea412d72d0d611ea926e00163e08b66a.m3u8
+6.2 SVM模型数据处理:https://edu.tipdm.org/hls/23049/playlist/f4ce6ed0d0d611ea96c400163e08b66a.m3u8
+6.3 SVM模型构建与评估:https://edu.tipdm.org/hls/23092/playlist/fdc803fcd0d611ea843500163e08b66a.m3u8
+1.1 商品实时推荐系统简介:https://edu.tipdm.org/hls/23064/playlist/1f4be8c2d0d711ea8d6c00163e08b66a.m3u8
+2.1 案例环境介绍:https://edu.tipdm.org/hls/23065/playlist/284a6822d0d711ea80bf00163e08b66a.m3u8
+2.2 模拟日志数据产生:https://edu.tipdm.org/hls/23066/playlist/313a8552d0d711ea8a6900163e08b66a.m3u8
+2.3 Flume采集配置文件分析:https://edu.tipdm.org/hls/23067/playlist/39e84b9ed0d711eaad1900163e08b66a.m3u8
+2.4 Flume数据采集实战:https://edu.tipdm.org/hls/23068/playlist/42bae1bed0d711eab45f00163e08b66a.m3u8
+3.1 Kafka数据缓存实战:https://edu.tipdm.org/hls/23069/playlist/4f613ed6d0d711ea963100163e08b66a.m3u8
+4.1 Flink数据处理开发环境介绍:https://edu.tipdm.org/hls/23074/playlist/597e3b08d0d711ea90f300163e08b66a.m3u8
+4.2 Flink数据处理开发环境实战:https://edu.tipdm.org/hls/23076/playlist/62aeb0f4d0d711ea8f2b00163e08b66a.m3u8
+4.3 Flink点击流和销售额计算-创建MYSQL存储表:https://edu.tipdm.org/hls/23077/playlist/6b884e42d0d711eaa24600163e08b66a.m3u8
+4.4 Flink点击流和销售额计算-自定义mysql sink:https://edu.tipdm.org/hls/23078/playlist/7431bbc8d0d711ea957700163e08b66a.m3u8
+4.5 Flink点击流和销售额计算-数据实时处理实战:https://edu.tipdm.org/hls/23079/playlist/80e6e0c8d0d711eaa53b00163e08b66a.m3u8
+4.6 Flink点击流和销售额计算-运行Flink任务:https://edu.tipdm.org/hls/23083/playlist/89ce7156d0d711ea8f3500163e08b66a.m3u8
+4.7 在集群中运行任务:https://edu.tipdm.org/hls/23084/playlist/92a9bcead0d711eaa90200163e08b66a.m3u8
+4.8 每日门店销售额实时统计:https://edu.tipdm.org/hls/23144/playlist/9b2de288d0d711eaa28300163e08b66a.m3u8
+4.9 每日商品销量实时统计:https://edu.tipdm.org/hls/23086/playlist/a40ec822d0d711eaa0c200163e08b66a.m3u8
+5.1 项目总结:https://edu.tipdm.org/hls/23087/playlist/b09bbaf0d0d711eaa56c00163e08b66a.m3u8
